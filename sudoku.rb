@@ -1,7 +1,3 @@
-# The #sherlock methods are screaming out for method extraction.
-# They're nearly identical, which is not cool if you want to
-# eventually show this off on some kind of portfolio site.
-
 ##--- Looping Method that Runs Until Success or Failure ---##
 def solve(board)
   puzzle_iterations = 0
